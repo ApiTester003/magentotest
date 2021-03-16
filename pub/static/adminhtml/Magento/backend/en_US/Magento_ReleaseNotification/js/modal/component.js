@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-release-notification/view/adminhtml/web/js/modal/component.js

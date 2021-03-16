@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-wishlist/view/frontend/web/js/add-to-wishlist.js

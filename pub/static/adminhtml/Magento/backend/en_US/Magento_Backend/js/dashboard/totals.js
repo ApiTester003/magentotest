@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-backend/view/adminhtml/web/js/dashboard/totals.js
