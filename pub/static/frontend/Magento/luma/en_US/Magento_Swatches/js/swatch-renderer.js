@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-swatches/view/base/web/js/swatch-renderer.js

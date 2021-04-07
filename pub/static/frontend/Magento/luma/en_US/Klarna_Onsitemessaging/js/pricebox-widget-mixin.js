@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/klarna/module-onsitemessaging/view/frontend/web/js/pricebox-widget-mixin.js

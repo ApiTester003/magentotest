@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

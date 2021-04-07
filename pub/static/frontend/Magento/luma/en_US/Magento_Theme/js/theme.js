@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js

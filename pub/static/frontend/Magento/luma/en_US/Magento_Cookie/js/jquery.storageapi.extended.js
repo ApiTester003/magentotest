@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-cookie/view/base/web/js/jquery.storageapi.extended.js

@@ -1,1 +1,0 @@
-D:/wamp64/www/magento_test/vendor/magento/module-tax/view/frontend/web/js/view/checkout/minicart/subtotal/totals.js
