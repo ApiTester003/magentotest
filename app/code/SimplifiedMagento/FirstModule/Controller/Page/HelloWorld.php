@@ -20,6 +20,9 @@
         {
             echo $this->pencilInterface->getPencilType();
             //echo get_class($this->prodRepository);
+            $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
+            $book = $objectManager->create('SimplifiedMagento\FirstModule\Model\Book');
+            var_dump($book);
         }
     }
 ?>

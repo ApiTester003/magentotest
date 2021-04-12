@@ -21,6 +21,6 @@ class Pencil implements PencilInterface {
 
     public function getPencilType()
     {
-        return "Our Pencil has" . $this->pencilColor->getColor() . " color and " . $this->pencilSize->getSize() . " size";
+        return "Our Pencil has " . $this->pencilColor->getColor() . " color and " . $this->pencilSize->getSize() . " size";
     }
 }
