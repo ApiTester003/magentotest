@@ -17,4 +17,14 @@
             <argument name="size" xsi:type="object">SimplifiedMagento\FirstModule\Model\Big</argument>
         </arguments>
     </type>
+    <type name="SimplifiedMagento\FirstModule\Model\Student">
+        <arguments>
+            <argument name="studName" xsi:type="string">Chris</argument>
+            <argument name="studAge" xsi:type="number">26</argument>
+            <argument name="studentScores" xsi:type="array">
+                <item name="maths" xsi:type="number">65</item>
+                <item name="programing" xsi:type="number">80</item>
+            </argument>
+        </arguments>
+    </type>
 </config>

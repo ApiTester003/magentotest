@@ -18,11 +18,12 @@
 
         public function execute()
         {
-            echo $this->pencilInterface->getPencilType();
+            //echo $this->pencilInterface->getPencilType();
             //echo get_class($this->prodRepository);
             $objectManager = \Magento\Framework\App\ObjectManager::getInstance();
-            $book = $objectManager->create('SimplifiedMagento\FirstModule\Model\Book');
-            var_dump($book);
+            //$book = $objectManager->create('SimplifiedMagento\FirstModule\Model\Book');
+            $student = $objectManager->create('SimplifiedMagento\FirstModule\Model\Student');
+            var_dump($student);
         }
     }
 ?>
